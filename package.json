@@ -1,0 +1,20 @@
+{
+    "name": "nekot-token",
+    "version": "1.0.0",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "@nomicfoundation/hardhat-ignition-ethers": "^0.15.7",
+        "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+        "dotenv": "^16.4.5",
+        "hardhat": "^2.22.15"
+    }
+}

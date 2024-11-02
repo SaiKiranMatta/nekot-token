@@ -37,3 +37,5 @@ coverage/
 
 # Hardhat deploy
 deployments/hardhat/
+
+ignition/deployments

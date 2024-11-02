@@ -1,24 +1,20 @@
 {
-  "name": "nekot-token",
-  "version": "1.0.0",
-  "main": "hardhat.config.js",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "@nomiclabs/hardhat-ethers": "^2.2.3",
-    "@nomiclabs/hardhat-waffle": "^2.0.6",
-    "chai": "^5.1.2",
-    "dotenv": "^16.4.5",
-    "ethereum-waffle": "^4.0.10",
-    "ethers": "^5.7.2",
-    "hardhat": "^2.22.15"
-  }
+    "name": "nekot-token",
+    "version": "1.0.0",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "@nomicfoundation/hardhat-ignition-ethers": "^0.15.7",
+        "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+        "dotenv": "^16.4.5",
+        "hardhat": "^2.22.15"
+    }
 }
